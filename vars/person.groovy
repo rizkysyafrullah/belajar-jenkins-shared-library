@@ -1,3 +1,3 @@
 def person(Map person) {
-    echo("Hello ${person.firstname} ${person.lastname}")
+    echo("Hello ${person.firstName} ${person.lastName}")
 }
