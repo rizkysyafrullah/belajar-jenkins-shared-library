@@ -1,4 +1,4 @@
-def Panggil() {
+def call() {
 pipeline {
   agent any 
   stages {
